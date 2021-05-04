@@ -18,8 +18,8 @@ public class TvericMetcy {
         int inputNumberC = scanner.nextInt();
         int x = inputNumberA;
         if (x < inputNumberB)
-
              x = inputNumberB;
+
         if (x < inputNumberC)
              x = inputNumberC;
         System.out.println(x);
